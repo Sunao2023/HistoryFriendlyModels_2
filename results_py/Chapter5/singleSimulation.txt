@@ -1,0 +1,17 @@
+Pharmaceutical Industry Model - Single Simulation
+Runtime: 2025-05-05 21:02:43
+Parameters:
+- Simulation periods: 100
+- Number of therapeutic categories: 200
+- Number of firms: 50
+- Molecules per therapeutic category: 400
+
+Simulation Results:
+- Final active firms: 0.00
+- Innovative products: 0.00
+- Imitative products: 0.00
+- Total Herfindahl index: 0.000000
+- Average Herfindahl index: 0.000000
+- Average price of innovative products: 0.000000
+- Average price of imitative products: 0.000000
+- Total profit: 0.00

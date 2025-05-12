@@ -1,0 +1,37 @@
+Multi Time: 1000
+drawCost: 20.0
+numOfFirm: 50
+numOfTC: 200
+TCValueCost: 600.0
+numOfMol: 400
+qMolNull: 0.97
+patentDuration: 20
+CostOfSearch: 0.0
+costOfResearchInn: 60.0
+costOfResearchImi: 20.0
+Initial Budget: 4500.0
+qualityCheck: 30
+AvgWeightInno: 3
+AvgWeightImi: 6
+Product exits below this threshold: 0.05
+Firm exits market after n unsuccesful searches: 7
+interestRate: 0.08
+timeDevelop: 24.0
+erosion marketing: 0.01
+Firm exits below this threshold: 0.004
+costProd: 1.0
+eta: 0.5
+elasticity in the markup formula: 1.5
+endTime: 100
+patentOriz: 5
+TCValueRand: 200.0
+a avg: 0.5
+a range: 0.1
+b avg: 0.15
+b range: 0.05
+c avg: 0.35
+c range: 0.05
+qMolCost: 30.0
+qMolVar: 20.0
+numOfSubMKT: 4
+% of R&D budget invested in search: 0.1
