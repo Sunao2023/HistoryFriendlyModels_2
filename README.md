@@ -35,6 +35,7 @@ HistoryFriendlyModels_1/
 ## 参数文件
 
 模型的参数文件位于项目根目录的`parameters`目录下，按章节分别存放。各章节模型运行时会自动读取对应章节的参数文件。
+如果需要修改模拟次数以及循环次数，请直接在参数配置文件中进行修改
 
 ## 运行结果
 
@@ -56,17 +57,17 @@ python manager.py
 ```python
 # Chapter 3 模型
 # run_chapter3_single(VERBOSE)
-# run_chapter3_multiple(ITERATIONS, VERBOSE)
+# run_chapter3_multiple(VERBOSE)
 # run_chapter3_sensitivity(VERBOSE)
 
 # Chapter 4 模型
 # run_chapter4_single(VERBOSE)
-# run_chapter4_multiple(ITERATIONS, VERBOSE)
+# run_chapter4_multiple(VERBOSE)
 # run_chapter4_sensitivity(VERBOSE)
 
 # Chapter 5 模型
-run_chapter5_single(VERBOSE)
-# run_chapter5_multiple(ITERATIONS, VERBOSE)
+# run_chapter5_single(VERBOSE)
+# run_chapter5_multiple(VERBOSE)
 ```
 
 ## 依赖包
